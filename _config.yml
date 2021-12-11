@@ -1,22 +1,18 @@
 # Your Name or Company
-title: Uni Kravitz
+title: El jardín de las ánimas
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  Página oficial del nuevo libro del autor Juan Cañavate
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
-
+content: El jardín de las ánimas es una obra de ficción que trata de uno de los capítulos más trsites de la historia de España, el Desastre de Annual en el año 1921. El jardín de las ánimas es también y, sobre todo, un libro dedicado, con respeto y emoción, a la memoria de los que allí murieron y también a los que sobrevivieron y tuvieron que seguir viviendo con el dolor de haber sido testigos de tanto sufrimiento.
 # Add your social links
 social:
-  - platform: github
+  - platform: El autor
     url: https://github.com/brianmaierjr
-  - platform: facebook
+  - platform: Encargar la novela
     url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
-  - platform: linkedin
-    url: brianmaierjr
+
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
