@@ -5,13 +5,13 @@ title: El jardín de las ánimas
 description:  Página oficial del nuevo libro del autor Juan Cañavate
 
 # A brief blurb about yourself
-content: El jardín de las ánimas es una obra de ficción que trata de uno de los capítulos más trsites de la historia de España, el Desastre de Annual en el año 1921. El jardín de las ánimas es también y, sobre todo, un libro dedicado, con respeto y emoción, a la memoria de los que allí murieron y también a los que sobrevivieron y tuvieron que seguir viviendo con el dolor de haber sido testigos de tanto sufrimiento.
+content: El jardín de las ánimas es una obra de ficción que trata de uno de los capítulos más tristes de la historia de España, el Desastre de Annual en el año 1921. El jardín de las ánimas es también y, sobre todo, un libro dedicado, con respeto y emoción, a la memoria de los que allí murieron y también a los que sobrevivieron y tuvieron que seguir viviendo con el dolor de haber sido testigos de tanto sufrimiento.
 # Add your social links
 social:
   - platform: El autor
-    url: https://jncvt.github.io/card.html
+    url: https://jncvt.github.io/autor.html
   - platform: Encargar la novela
-    url: https://facebook.com/brianmaierjr
+    url: https://jncvt.github.io/encargar.html
 
 
 # General settings
