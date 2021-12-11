@@ -13,7 +13,8 @@ social:
   - platform: Encargar la novela
     url: https://jncvt.github.io/encargar.html
 
-autor: Licenciado en Geografía e Historia por la Universidad de Granada y doctor desde el año 2002 con la tesis titulada Granada de la medina nazarí al burgo medieval cristiano. Es miembro del grupo de investigación «Toponimia, Historia y Arqueología del reino de Granada» y arqueólogo de la Consejería de Cultura de la Junta de Andalucía
+autor: Melillense de adopción, ciudad en la que vivió su infancia y adolescencia, el autor de ´´El jardín de las ánimas´´ se trasladó al inicio de sus estudios universitarios a Granada, localidad donde en la actualidad vive. Es licenciado en Geografía e Historia por la UGR donde, además, realizó su doctorado en Historia Medieval y donde, en la actualidad,es profesor colaborador del Másterde Arqueología de la UGR. Su carrera profesional la ha desarrollado como Arqueólogo en la Junta de Andalucía en las provincias de Almería, Sevilla y Granada.Es autor de diferentes libros y publicaciones de carácter académico,
+especialmente dedicados a la transición urbanística de la Granadanazarí a la Granada castellana. Enla actualidad ha trabajado y lo sigue haciendo en distintas investigaciones y publicaciones dedicadasal fenómeno del morabitismo en laGranada Medieval.
 informacion: La manera más sencilla de conseguir la novela es a través del correo eletrónico. Envía un correo al autor a través de la direccion jncvt2008@gmail.com.
 
 
@@ -22,7 +23,7 @@ informacion: La manera más sencilla de conseguir la novela es a través del cor
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+# google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
