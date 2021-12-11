@@ -6,10 +6,10 @@ description:  Página oficial del nuevo libro del autor Juan Cañavate
 
 # A brief blurb about yourself
 content1: ´´El jardín de las ánimas´´ es una ficción que se desarrolla en dos momentos históricos distintos; el entorno de 1921, durante el trágico Desastre de Annual y el entorno de 1970, donde un testigo y protagonista de aquel Desastre, unmilitar ya retirado, se encuentra con un soldado que, además de euskaldun, es periodista y que, tras varias prorrogas por estudio, está haciendo el servicio militar en Melilla como camarero en el Casino Militar de la ciudad. El militar (Luis) convencerá al soldado (Eneko) para que le ayude a escribir ´´su´´ historia del Desastre.
-content2: Esa colaboración literaria y vital intenta reconstruir una visión de un momento de la historia de España que se inicia mucho antes del Desastre y que acabará siendo determinante en el devenir posterior de los acontecimientos que acabaron en la guerra civil. La colaboración que se inicia casi a regañadientes,acaba por generar fuerte vínculos entre los dos protagonistas que redescubrirán, cada uno a su manera, la trágica historia del Desastre.
-content3: En la trama, que va y viene de un período a otro, se mezclan personajes, héroes y villanos, que intentan sobrevivir y entender unos acontecimientos históricos incontrolables en medio de lealtades,  enfrentamientos, intrigas y hasta historias de amor y desamor.
-content4: La novela mira, además, con respeto a los protagonistas históricos de la revuelta rifeña e intenta hacer una lectura diferente de la que tradicionalmente se ha hecho desde España sobre los hechos que desembocaron en la tragedia de Annual.
-content5: Finalmente reivindica la recuperación de la memoria histórica como un elemento imprescindible y necesario para el futuro.
+#content2: Esa colaboración literaria y vital intenta reconstruir una visión de un momento de la historia de España que se inicia mucho antes del Desastre y que acabará siendo determinante en el devenir posterior de los acontecimientos que acabaron en la guerra civil. La colaboración que se inicia casi a regañadientes,acaba por generar fuerte vínculos entre los dos protagonistas que redescubrirán, cada uno a su manera, la trágica historia del Desastre.
+#content3: En la trama, que va y viene de un período a otro, se mezclan personajes, héroes y villanos, que intentan sobrevivir y entender unos acontecimientos históricos incontrolables en medio de lealtades,  enfrentamientos, intrigas y hasta historias de amor y desamor.
+#content4: La novela mira, además, con respeto a los protagonistas históricos de la revuelta rifeña e intenta hacer una lectura diferente de la que tradicionalmente se ha hecho desde España sobre los hechos que desembocaron en la tragedia de Annual.
+#content5: Finalmente reivindica la recuperación de la memoria histórica como un elemento imprescindible y necesario para el futuro.
 # Add your social links
 social:
   - platform: El autor
@@ -17,10 +17,10 @@ social:
   - platform: Encargar la novela
     url: https://jncvt.github.io/encargar.html
 autor1: Mi nombre es Juan Cañavate Toribio y nací en Ceuta, aunque me trasladé pronto, después de un breve paseo por Canarias y Málaga, a Melilla donde viví hasta que empecé mis estudios universitarios en Granada.
-autor2: Tras terminar mis estudios, me fui a trabajar a un instituto español enAlhucemas (Marruecos) donde pasé unos cuantos años como profesor dehistoria.
-autor3: Tras la vuelta a España y tras vivir una larga temporada en Sevilla, vinculado a actividades relacionadas con la cultura, sobre todo al mundo de la difusión y de las exposiciones, volví a Granada donde hice un doctorado en Arqueología Medieval en la UGR y saqué una plaza de arqueólogo en la Junta de Andalucía.
-autor4: Desde entonces he trabajado como arqueólogo, he escrito en diferentes medios de comunicación, he publicado algún libro y muchos artículos de carácter académico sobre la Granada medieval y he impartido, y lo sigo haciendo, clases como profesor colaborador en el máster de arqueología de la UGR.
-autor5: El jardín de las ánimas es mi primera incursión en la novela y sospecho que no será la última.
+#autor2: Tras terminar mis estudios, me fui a trabajar a un instituto español enAlhucemas (Marruecos) donde pasé unos cuantos años como profesor dehistoria.
+#autor3: Tras la vuelta a España y tras vivir una larga temporada en Sevilla, vinculado a actividades relacionadas con la cultura, sobre todo al mundo de la difusión y de las exposiciones, volví a Granada donde hice un doctorado en Arqueología Medieval en la UGR y saqué una plaza de arqueólogo en la Junta de Andalucía.
+#autor4: Desde entonces he trabajado como arqueólogo, he escrito en diferentes medios de comunicación, he publicado algún libro y muchos artículos de carácter académico sobre la Granada medieval y he impartido, y lo sigo haciendo, clases como profesor colaborador en el máster de arqueología de la UGR.
+#autor5: El jardín de las ánimas es mi primera incursión en la novela y sospecho que no será la última.
 
 informacion: La manera más sencilla de conseguir la novela es a través del correo eletrónico. Envía un correo al autor a través de la dirección jncvt2008@gmail.com .
 
